@@ -6,7 +6,7 @@ The project uses a text file for local storage and provides options to save pass
 
 ## 🎥 Preview
 
-[▶️ Watch Password Manager Preview](./Preview_video/Build%20a%20Password%20Manager%20Using%20Python.mp4)
+[▶️ Watch Project Demo](./Preview/Build%20a%20Password%20Manager%20Using%20Python.mp4)
 
 The preview demonstrates saving a website password, retrieving a stored password, and copying the retrieved password to the clipboard.
 
